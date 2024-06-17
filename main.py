@@ -24,7 +24,7 @@ time = 0
 
 # Create the game window
 window = pygame.display.set_mode((WIDTH, HEIGHT), 0, 32)
-pygame.display.set_caption('Asteroids (Space Game)')
+pygame.display.set_caption('Astro-Blast')
 
 # Load images
 bg = pygame.image.load('Photos/background.jpg')
