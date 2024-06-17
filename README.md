@@ -24,3 +24,7 @@ Control the spaceship using the following keys:
 
 Important:
 Ensure all game files (images, sounds, and the Python script) are in the same directory.
+
+
+Inspired from
+https://youtu.be/UMGd1C5fNaE?si=NVT11-D-ZJo48pCZ
