@@ -26,12 +26,20 @@ Control the spaceship using the following keys:
 
 
 How to run
-Install Pygbag:
+## Installation and Running
 
-Use pip to install Pygbag:
+**Prerequisites:**
 
+* Python 3.x installed on your system.
 
-pip install pygbag\t\t
+**Installing Pygbag:**
+
+1. Open a terminal window.
+2. Run the following command to install Pygbag using pip:
+
+   ```bash
+   pip install pygbag
+
 
 
 python main.py
