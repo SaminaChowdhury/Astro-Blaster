@@ -25,6 +25,11 @@ Control the spaceship using the following keys:
 9. R: Restart after Game Over.
 
 
+How to run
+pip install pygame
+python main.py
+
+
 
 
 Important:
