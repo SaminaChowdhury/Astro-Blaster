@@ -39,7 +39,9 @@ Control the spaceship using the following keys:
 
    ```bash
    pip install pygbag
-    python main.py
+
+# Run the game:
+   python main.py
 Important:
 Ensure all game files (images, sounds, and the Python script) are in the same directory.
 
