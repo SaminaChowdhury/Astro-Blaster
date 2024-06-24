@@ -40,9 +40,11 @@ How to run
    ```bash
    pip install pygbag
 
+   ''' python main.py
 
 
-python main.py
+
+
 
 
 
