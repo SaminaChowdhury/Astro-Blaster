@@ -26,8 +26,17 @@ Control the spaceship using the following keys:
 
 
 How to run
-pip install pygame
+Install Pygbag:
+
+Use pip to install Pygbag:
+
+
+pip install pygbag\t\t
+
+
 python main.py
+
+
 
 
 
