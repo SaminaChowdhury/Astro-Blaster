@@ -1,4 +1,4 @@
-# 🚀 CODE IN PLACE 2024 PROJECT
+# 🚀 Code In Place 2024 Project
 
 ## 🌌 Asteroid Space Game
 
