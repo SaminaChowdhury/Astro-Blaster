@@ -1,48 +1,46 @@
-CODE IN PLACE 2024 PROJECT!!!
+# 🚀 CODE IN PLACE 2024 PROJECT
 
+## 🌌 Asteroid Space Game
 
+Welcome to the **Asteroid Space Game!**  
+A visually captivating space adventure built using **Python** and **Pygame**.  
+Perfect for intermediate Python programmers looking to enhance their skills.
 
+---
 
-Asteroid Space Game
+## 🎮 How to Play
 
-
-
-
-Welcome to the Asteroid Space Game! This visually captivating space adventure is built using Python and the Pygame module. Perfect for intermediate Python programmers looking to enhance their skills.
-
-
-How to Play
 Control the spaceship using the following keys:
 
-1. Up Arrow: Move forward.
-2. Down Arrow: Stop the ship.
-3. Right Arrow: Rotate right.
-4. Left Arrow: Rotate left.
-5. Space Bar: Shoot asteroids.
-6. Left Ctrl: Move forward with extreme speed (cheat code).
-7. Q: Close the game.
-8. P: Pause/Resume the game.
-9. R: Restart after Game Over.
+- ⬆️ **Up Arrow**: Move forward  
+- ⬇️ **Down Arrow**: Stop the ship  
+- ➡️ **Right Arrow**: Rotate right  
+- ⬅️ **Left Arrow**: Rotate left  
+- 🔫 **Space Bar**: Shoot asteroids  
+- ⚡ **Left Ctrl**: Move forward with extreme speed *(cheat code)*  
+- ❌ **Q**: Close the game  
+- ⏸️ **P**: Pause/Resume the game  
+- 🔄 **R**: Restart after *Game Over*  
+
+---
+
+## ⚙️ Installation & Running
+
+### ✅ Prerequisites:
+- Python **3.x** installed on your system.
+
+### 📦 Install Pygbag:
+Open a terminal and run:
+```bash
+pip install pygbag
+
+```
+
+## Screenshots
+<img src="Photos/Screenshot 2025-09-24 195356.png" width="500" />
+<img src="Photos/Screenshot 2025-09-24 195431.png" width="500" />
+
+[🎥 Watch Gameplay on LinkedIn](https://www.linkedin.com/posts/samina-chowdhury-57355023a_excited-to-share-my-final-project-for-activity-7209608396881162242-w5h8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADuGdCcB6ig_cIFu2DQy68jhAB7nJZ4wAd8)
 
 
 
-## Installation and Running
-
-**Prerequisites:**
-
-* Python 3.x installed on your system.
-
-**Installing Pygbag:**
-
-1. Open a terminal window.
-2. Run the following command to install Pygbag using pip:
-
-   ```bash
-   pip install pygbag
-
-Important:
-Ensure all game files (images, sounds, and the Python script) are in the same directory.
-
-
-Inspired from
-https://youtu.be/UMGd1C5fNaE?si=NVT11-D-ZJo48pCZ
